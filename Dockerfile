@@ -13,7 +13,7 @@ USER python
 WORKDIR /home/python/app
 
 ENV PYTHONPATH=${PYTHONPATH}/home/python/app
-ENV PATH="$PATH:$PYTHONPATH/.venv/bin"
+ENV PATH="$PATH:/usr/local/bin/python"
 
 
 CMD ["tail", "-f", "/dev/null"]
