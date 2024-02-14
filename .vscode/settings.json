@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "/usr/local/bin/python",
+    "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "github.copilot",
+        "visualstudioexptteam.vscodeintellicode",
+        "eamodio.gitlens",
+        "vivaxy.vscode-conventional-commits",
+        "ms-azuretools.vscode-docker",
+        "be5invis.toml",
+        "mechatroner.rainbow-csv",
+        "janisdd.vscode-edit-csv",
+    ],
+}
